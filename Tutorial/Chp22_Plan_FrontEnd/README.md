@@ -9,6 +9,9 @@
     + 2.會員頁
     + 3.錯誤頁面
  
+ + Visualize : 
+ ![image](../data/img/MemberSystem.PNG)
+
 
 # 2.基礎後端設定 : 完成基礎的Flask後端相關程式啟動伺服器 
 
