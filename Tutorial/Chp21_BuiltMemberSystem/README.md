@@ -13,8 +13,8 @@
  # 1.專案準備 : 建立一個新的專案 : 
 
 + 建立 開啟專案資料夾
-+ 確認已安裝Flask
-+ 確認已安裝 pymongo[srv]
++ 確認已安裝Flask(pip install Flask)
++ 確認已安裝 pymongo[srv] (pip install pymongo[srv])
 + 完成後端伺服器, 資料庫的初始程式碼
 
 # 2.基礎後端設定 : 完成基礎的Flask後端相關程式啟動伺服器 
@@ -27,6 +27,8 @@
 # 3.資料庫連線準備 : 完成與資料庫連線, 隨時待命
 
 + 載入Pymongo套件 
+    Import Pymongo
 + 連線到MongoDB雲端資料庫
+    Client=pymongo.MongoClient("")
 + 選擇操作Member_System資料庫
 
