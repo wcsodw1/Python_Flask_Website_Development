@@ -22,3 +22,11 @@
 + 載入Flask所有相關工具
     + 建立Application物件, 靜態檔案處理設定
 + 設定Session 的密鑰
+
+
+# 3.資料庫連線準備 : 完成與資料庫連線, 隨時待命
+
++ 載入Pymongo套件 
++ 連線到MongoDB雲端資料庫
++ 選擇操作Member_System資料庫
+
