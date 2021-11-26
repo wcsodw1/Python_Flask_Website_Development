@@ -33,7 +33,8 @@ def index():
 def member():
     return render_template("member.html")
 
-# /error?msg=錯誤訊息
+# 設計彈性訊息設定!
+# 設計客製化訊息 : /error?msg=
 
 
 @app.route("/error")
