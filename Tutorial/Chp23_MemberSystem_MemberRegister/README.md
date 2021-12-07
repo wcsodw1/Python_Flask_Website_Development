@@ -10,6 +10,6 @@
     + 3.錯誤頁面
  
  + Visualize below : <br>
- ![image](../data/img/MemberSystem/BuiltFlow.PNG)
+ ![image](../data/img/MemberSystem/BuiltFlow.png)
 
 # 2.實作 : 
